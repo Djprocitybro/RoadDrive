@@ -1,5 +1,5 @@
-Road Drive - Player Edition
+The Long Return - Player Edition
 
-Double-click RoadDrive.exe to play.
+Double-click The Long Return.exe to play.
 
-This folder contains the packaged player build only. The editor project, source scripts, tests, and development tools are not included.
+This folder contains the packaged player build only.
